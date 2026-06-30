@@ -7,46 +7,55 @@
 #    def length(self) -> int:
 
 class Solution:
-    def findInMountainArray(self, target: int, mount: 'MountainArray') -> int:
-        def bininc(l,r,target):
-            while l<=r:
-                mid = (l+r)//2
-                k = mount.get(mid)
-                if k==target:
+    def findInMountainArray(self, target: int, mountainArr: 'MountainArray') -> int:
+        n = mountainArr.length()
+
+        def bin_inc(l, r):
+            while l <= r:
+                mid = (l + r) // 2
+                val = mountainArr.get(mid)
+
+                if val == target:
                     return mid
-                elif k>target:
-                    r=mid-1
+                elif val < target:
+                    l = mid + 1
                 else:
-                    l=mid+1
-            return -1
-        def bindec(l,r,target):
-            while l<=r:
-                mid = (l+r)//2
-                k = mount.get(mid)
-                if k==target:
-                    return mid
-                elif k>target:
-                    l=mid+1
-                else:
-                    r=mid-1
+                    r = mid - 1
             return -1
 
-                
+        def bin_dec(l, r):
+            while l <= r:
+                mid = (l + r) // 2
+                val = mountainArr.get(mid)
 
-        l,r = 0,mount.length()-1
-        index = -1
-        peak = -1
-        while l<r:
-            mid = (l+r)//2
-            if mount.get(mid)<mount.get(mid+1):
-                l=mid+1
+                if val == target:
+                    return mid
+                elif val > target:
+                    l = mid + 1
+                else:
+                    r = mid - 1
+            return -1
+
+        i = 1
+
+        while i < n and mountainArr.get(i) > mountainArr.get(i - 1):
+            i *= 2
+
+        left = i // 2
+        right = min(i, n - 1)
+
+        while left < right:
+            mid = (left + right) // 2
+
+            if mountainArr.get(mid) < mountainArr.get(mid + 1):
+                left = mid + 1
             else:
-                r=mid
-        peak = l
-        left,right = bininc(0,peak,target),bindec(peak+1,mount.length()-1,target)
-        if left==-1 and right==-1:
-            return -1
-        return left if left!=-1 else right
+                right = mid
 
+        peak = left
 
-        
+        ans = bin_inc(0, peak)
+        if ans != -1:
+            return ans
+
+        return bin_dec(peak + 1, n - 1)
