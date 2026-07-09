@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0567-permutation-in-string) |
 | [0895-maximum-frequency-stack](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0981-time-based-key-value-store) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0992-subarrays-with-k-different-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0567-permutation-in-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0992-subarrays-with-k-different-integers) |
 ## Array
 |  |
 | ------- |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0502-ipo) |
 | [0853-car-fleet](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0853-car-fleet) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0992-subarrays-with-k-different-integers) |
 | [1095-find-in-mountain-array](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1095-find-in-mountain-array) |
 | [1288-remove-covered-intervals](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1288-remove-covered-intervals) |
 | [2709-greatest-common-divisor-traversal](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2709-greatest-common-divisor-traversal) |
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0214-shortest-palindrome) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
