@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0981-time-based-key-value-store) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0992-subarrays-with-k-different-integers) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2709-greatest-common-divisor-traversal](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2709-greatest-common-divisor-traversal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0981-time-based-key-value-store) |
 | [1095-find-in-mountain-array](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1095-find-in-mountain-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Interactive
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2709-greatest-common-divisor-traversal](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2709-greatest-common-divisor-traversal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Shortest Path
 |  |
 | ------- |
