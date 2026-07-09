@@ -13,10 +13,7 @@ class Solution:
                 union(i,i+1)
         ans = []
         for u,v in queries:
-            if par[u]==par[v]:
-                ans.append(True)
-            else:
-                ans.append(False)
+            ans.append(find(u)==find(v))
         return ans
         
 
