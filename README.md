@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0214-shortest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0981-time-based-key-value-store) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Rolling Hash
 |  |
@@ -168,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0992-subarrays-with-k-different-integers) |
+## Tree
+|  |
+| ------- |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
