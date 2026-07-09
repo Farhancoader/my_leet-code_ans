@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0140-word-break-ii) |
+| [0473-matchsticks-to-square](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0473-matchsticks-to-square) |
 | [0502-ipo](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0502-ipo) |
 | [0853-car-fleet](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0853-car-fleet) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -100,10 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0140-word-break-ii) |
+| [0473-matchsticks-to-square](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0473-matchsticks-to-square) |
 ## Backtracking
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0140-word-break-ii) |
+| [0473-matchsticks-to-square](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0473-matchsticks-to-square) |
 ## Trie
 |  |
 | ------- |
@@ -183,5 +186,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0473-matchsticks-to-square) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1310-xor-queries-of-a-subarray) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
