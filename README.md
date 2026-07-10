@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0853-car-fleet) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0992-subarrays-with-k-different-integers) |
+| [1020-number-of-enclaves](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1020-number-of-enclaves) |
 | [1095-find-in-mountain-array](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1095-find-in-mountain-array) |
 | [1288-remove-covered-intervals](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1288-remove-covered-intervals) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1310-xor-queries-of-a-subarray) |
@@ -130,12 +131,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1020-number-of-enclaves](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
+| [1020-number-of-enclaves](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2709-greatest-common-divisor-traversal](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2709-greatest-common-divisor-traversal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1020-number-of-enclaves](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1020-number-of-enclaves) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1020-number-of-enclaves](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1020-number-of-enclaves) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Rolling Hash
