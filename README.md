@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1095-find-in-mountain-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Interactive
 |  |
 | ------- |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0853-car-fleet](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0853-car-fleet) |
 | [1288-remove-covered-intervals](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0140-word-break-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0140-word-break-ii) |
 | [0473-matchsticks-to-square](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0473-matchsticks-to-square) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -146,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -154,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0502-ipo) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
 | ------- |
@@ -197,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0473-matchsticks-to-square) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1310-xor-queries-of-a-subarray) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bitmask
 |  |
 | ------- |
