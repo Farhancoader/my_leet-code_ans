@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1020-number-of-enclaves) |
 | [1095-find-in-mountain-array](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1095-find-in-mountain-array) |
 | [1288-remove-covered-intervals](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1288-remove-covered-intervals) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1020-number-of-enclaves) |
 | [1463-cherry-pickup-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1463-cherry-pickup-ii) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
