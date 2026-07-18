@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0207-course-schedule) |
 | [0994-rotting-oranges](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0207-course-schedule) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2685-count-the-number-of-complete-components) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0207-course-schedule) |
 | [1020-number-of-enclaves](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1020-number-of-enclaves) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -254,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1291-sequential-digits) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
