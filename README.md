@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1020-number-of-enclaves) |
 | [1095-find-in-mountain-array](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1095-find-in-mountain-array) |
+| [1260-shift-2d-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1288-remove-covered-intervals) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1310-xor-queries-of-a-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1331-rank-transform-of-an-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0994-rotting-oranges](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1020-number-of-enclaves) |
+| [1260-shift-2d-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1260-shift-2d-grid) |
 | [1463-cherry-pickup-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1463-cherry-pickup-ii) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0207-course-schedule) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
