@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2709-greatest-common-divisor-traversal](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2709-greatest-common-divisor-traversal) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Number Theory
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0473-matchsticks-to-square) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1310-xor-queries-of-a-subarray) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bitmask
 |  |
