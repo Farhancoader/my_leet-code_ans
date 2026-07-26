@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0473-matchsticks-to-square) |
 | [0502-ipo](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0503-next-greater-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0853-car-fleet](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0853-car-fleet) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0502-ipo) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0853-car-fleet](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0853-car-fleet) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2709-greatest-common-divisor-traversal](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2709-greatest-common-divisor-traversal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3513-number-of-unique-xor-triplets-i) |
