@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0981-time-based-key-value-store) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2952-minimum-number-of-coins-to-be-added) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3536-maximum-product-of-two-digits) |
 ## Monotonic Stack
@@ -286,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1260-shift-2d-grid) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
