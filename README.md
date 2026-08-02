@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0853-car-fleet) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0877-stone-game](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0877-stone-game) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1020-number-of-enclaves) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0140-word-break-ii) |
 | [0473-matchsticks-to-square](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0877-stone-game) |
 | [1463-cherry-pickup-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1463-cherry-pickup-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2709-greatest-common-divisor-traversal](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2709-greatest-common-divisor-traversal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -308,4 +311,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
