@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2709-greatest-common-divisor-traversal](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2709-greatest-common-divisor-traversal) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0877-stone-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2709-greatest-common-divisor-traversal](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2709-greatest-common-divisor-traversal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1260-shift-2d-grid) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Counting Sort
 |  |
 | ------- |
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0486-predict-the-winner) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Game Theory
 |  |
 | ------- |
