@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0134-gas-station) |
 | [0140-word-break-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0140-word-break-ii) |
 | [0239-sliding-window-maximum](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0239-sliding-window-maximum) |
+| [0307-range-sum-query-mutable](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0307-range-sum-query-mutable) |
 | [0473-matchsticks-to-square](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0486-predict-the-winner) |
 | [0502-ipo](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0502-ipo) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0307-range-sum-query-mutable) |
 | [0895-maximum-frequency-stack](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0895-maximum-frequency-stack) |
 | [0981-time-based-key-value-store](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0981-time-based-key-value-store) |
 ## Ordered Set
@@ -337,4 +339,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1406-stone-game-iii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
