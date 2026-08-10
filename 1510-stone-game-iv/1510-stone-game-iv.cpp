@@ -1,9 +1,6 @@
-class Solution {
-public:
-    int n = 1e5;
-    vector<bool> dp;
-    Solution(){
-        dp.resize(n+1);
+const int n = 1e5;
+    int dp[n+1];
+    auto init  = [](){
     for(int i=1;i<n+1;i++){
         long long r = sqrt(i);
         if(r*r==i){
@@ -17,7 +14,10 @@ public:
                 }
         }
     }
-    }
+    return 0;
+    }();
+class Solution {
+public:
     bool winnerSquareGame(int N) {
         return dp[N];
     }
