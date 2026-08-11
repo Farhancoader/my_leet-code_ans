@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1020-number-of-enclaves) |
 | [1095-find-in-mountain-array](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1095-find-in-mountain-array) |
+| [1140-stone-game-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1288-remove-covered-intervals) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1310-xor-queries-of-a-subarray) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1140-stone-game-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1140-stone-game-ii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1310-xor-queries-of-a-subarray) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Queue
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1463-cherry-pickup-ii) |
 | [1510-stone-game-iv](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1510-stone-game-iv) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1510-stone-game-iv) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -335,16 +339,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1510-stone-game-iv) |
 ## Divide and Conquer
