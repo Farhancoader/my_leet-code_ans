@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0981-time-based-key-value-store) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1331-rank-transform-of-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0992-subarrays-with-k-different-integers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Array
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2709-greatest-common-divisor-traversal](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2709-greatest-common-divisor-traversal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2952-minimum-number-of-coins-to-be-added) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3513-number-of-unique-xor-triplets-i) |
