@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0981-time-based-key-value-store) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1927-sum-game](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0502-ipo) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1386-cinema-seat-allocation](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1927-sum-game) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1510-stone-game-iv) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1927-sum-game](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2709-greatest-common-divisor-traversal](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2709-greatest-common-divisor-traversal) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
