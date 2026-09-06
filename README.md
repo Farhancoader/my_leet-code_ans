@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0115-distinct-subsequences) |
 | [0140-word-break-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0140-word-break-ii) |
 | [0214-shortest-palindrome](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0214-shortest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0567-permutation-in-string) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0115-distinct-subsequences) |
 | [0140-word-break-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0140-word-break-ii) |
 | [0473-matchsticks-to-square](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0486-predict-the-winner) |
