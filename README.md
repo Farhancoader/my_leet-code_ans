@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0140-word-break-ii) |
 | [0214-shortest-palindrome](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0214-shortest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0567-permutation-in-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0940-distinct-subsequences-ii) |
 | [0981-time-based-key-value-store](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0981-time-based-key-value-store) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1927-sum-game](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1927-sum-game) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1463-cherry-pickup-ii) |
