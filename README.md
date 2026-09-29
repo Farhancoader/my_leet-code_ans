@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2709-greatest-common-divisor-traversal](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2709-greatest-common-divisor-traversal) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1463-cherry-pickup-ii) |
 | [1510-stone-game-iv](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1510-stone-game-iv) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
 |  |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1260-shift-2d-grid) |
 | [1463-cherry-pickup-ii](https://github.com/Farhancoader/my_leet-code_ans/tree/master/1463-cherry-pickup-ii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Farhancoader/my_leet-code_ans/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -426,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Farhancoader/my_leet-code_ans/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
